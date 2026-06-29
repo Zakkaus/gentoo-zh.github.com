@@ -1,11 +1,13 @@
 ---
-title: "Puqns67"
+title: "Boiao Ch"
 tags: ['Overlay 貢獻者']
-externalUrl: "https://github.com/Puqns67"
+externalUrl: "https://github.com/liaobinbin"
 links:
+  - name: "blog"
+    url: "https://liaobinbin.com"
   - name: "twitter"
-    url: "https://twitter.com/puqns67"
-weight: 9730
+    url: "https://twitter.com/doubiliao"
+weight: 9990
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +17,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-270 次提交
+10 次提交

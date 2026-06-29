@@ -1,9 +1,8 @@
 ---
-title: "irort"
+title: "dependabot[bot]"
 tags: ['Overlay 貢獻者']
-externalUrl: "https://github.com/irort"
-links:
-weight: 9800
+externalUrl: "https://github.com/dependabot[bot]"
+weight: 9990
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -13,4 +12,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-200 次提交
+10 次提交
