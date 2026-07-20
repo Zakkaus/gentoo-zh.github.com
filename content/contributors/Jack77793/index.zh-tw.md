@@ -5,7 +5,7 @@ externalUrl: "https://github.com/Jack77793"
 links:
   - name: "blog"
     url: "https://blog.jack77793.dev"
-weight: 9962
+weight: 9960
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +15,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-38 次提交
+40 次提交
