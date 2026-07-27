@@ -1,11 +1,11 @@
 ---
-title: "狗娃子"
-tags: ['現任主要維護者']
-externalUrl: "https://github.com/gouwazi"
+title: "gentoo-zh-bot"
+tags: ['Overlay 貢獻者']
+externalUrl: "https://github.com/gentoo-zh-bot"
 links:
   - name: "blog"
-    url: "https://blog.gouwazi.org"
-weight: 9048
+    url: "https://gentoozh.org"
+weight: 9976
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +15,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-952 次提交
+24 次提交
