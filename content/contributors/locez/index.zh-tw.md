@@ -5,7 +5,7 @@ externalUrl: "https://github.com/locez"
 links:
   - name: "blog"
     url: "https://locez.com"
-weight: 9961
+weight: 9960
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +15,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-39 次提交
+40 次提交
