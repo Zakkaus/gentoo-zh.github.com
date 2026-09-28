@@ -5,7 +5,7 @@ externalUrl: "https://github.com/xz-dev"
 links:
   - name: "blog"
     url: "https://xzos.net"
-weight: 9839
+weight: 9837
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +15,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-161 次提交
+163 次提交
