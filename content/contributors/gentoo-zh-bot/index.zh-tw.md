@@ -5,7 +5,7 @@ externalUrl: "https://github.com/gentoo-zh-bot"
 links:
   - name: "blog"
     url: "https://gentoozh.org"
-weight: 9099
+weight: 9003
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +15,4 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-901 次提交
+997 次提交
